@@ -69,6 +69,7 @@
 			this.btnAgregar.TabIndex = 12;
 			this.btnAgregar.Text = "+";
 			this.btnAgregar.UseVisualStyleBackColor = true;
+			this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
 			// 
 			// txtproducto
 			// 

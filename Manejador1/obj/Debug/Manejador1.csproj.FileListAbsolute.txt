@@ -1,0 +1,16 @@
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\bin\Debug\Manejador1.dll
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\bin\Debug\Manejador1.pdb
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\bin\Debug\AccesoDatos.dll
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\bin\Debug\Conexion.dll
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\bin\Debug\MySql.Data.dll
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\bin\Debug\System.Memory.dll
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\bin\Debug\System.Buffers.dll
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\bin\Debug\AccesoDatos.pdb
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\bin\Debug\Conexion.pdb
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\obj\Debug\Manejador1.csproj.AssemblyReference.cache
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\obj\Debug\Manejador1.csproj.CoreCompileInputs.cache
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\obj\Debug\Manejador1.csproj.CopyComplete
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\obj\Debug\Manejador1.dll
+C:\Users\nh017\source\repos\Proyecto_Tienda\Manejador1\obj\Debug\Manejador1.pdb

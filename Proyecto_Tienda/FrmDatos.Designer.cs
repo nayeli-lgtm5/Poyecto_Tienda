@@ -94,6 +94,7 @@
 			this.btnGuardar.TabIndex = 12;
 			this.btnGuardar.Text = "Aceptar";
 			this.btnGuardar.UseVisualStyleBackColor = true;
+			this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
 			// 
 			// label3
 			// 
